@@ -1,0 +1,5 @@
+DELAY 1000
+GUI r 
+DELAY 100
+STRING https://www.facebook.com
+ENTER
